@@ -1,4 +1,4 @@
-package com.arjonas.hr_payroll;
+package com.arjonas.hrpayroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
